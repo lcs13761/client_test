@@ -22,7 +22,7 @@
 <p>Client</p>
 <p>Address</p>
 
-<p>Users esta conectado a Address e a Cliente. onde o usuario pode ter varios clientes.</p>
+<p>Users --conecta--> Client</p>
 <p>Users e clients possui uma conexão onde um usuário possui apenas 1 endereço. </p>
 
 
