@@ -1,4 +1,4 @@
-# Api client
+# Api Client
 
 <p>Api para gerenciamento de cliente.</p>
 <p>Para a utilização do gerenciamento e necessario esta logado.</p>
@@ -16,9 +16,12 @@
 
 ### Usuário logado
 
-<p>/api/user metodo GET</p>
-<p>/api/update metodo PUT</p>
+<p>/api/user Metodo GET</p>
+<p>/api/update Metodo PUT</p>
 
-### client 
+### Client 
 
-
+/api/clients Metodo GET
+/api/client/add Metodo POST
+/api/client/update/{id} Metodo PUT
+/api/client/delete/{id} Metodo DELLETE
