@@ -45,6 +45,6 @@
 <p>Route /api/client/update/{id} Metodo PUT</p>
 <p>Route /api/client/delete/{id} Metodo DELLETE</p>
 
-#
+# Inicar a Aplicação.
 
-<p>Para iniciar a aplicação , faça a execução no terminal do comando <b>php artisan serve</b> na pasta da aplicação.</p>
+<p>Para iniciar a aplicação, faça a execução no terminal do comando <b>php artisan serve</b> na pasta da aplicação.</p>
