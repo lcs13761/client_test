@@ -10,8 +10,15 @@
 
 ### Autenticação do usuário 
 
-<p>"/api/login"</p>
-<p>"/api/logout"  requirido esta logado</p>
-<p>"/api/refresh" requirido esta logado</p> 
-<p></p>
+<p>/api/login</p>
+<p>/api/logout  requirido esta logado</p>
+<p>/api/refresh requirido esta logado</p> 
+
+### usuário logado
+
+<p>/api/user metodo GET</p>
+<p>/api/update metodo PUT</p>
+
+### client 
+
 
