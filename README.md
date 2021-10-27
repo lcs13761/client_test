@@ -47,4 +47,4 @@
 
 # Inicar a Aplicação.
 
-<p>Para iniciar a aplicação, faça a execução no terminal do comando <b>php artisan serve</b> na pasta da aplicação.</p>
+<p>Para iniciar projeto, e necessario esta na pasta da aplicação, apos isso adicione no terminal o comando <b>php artisan serve</b> e aperte enter.</p>
