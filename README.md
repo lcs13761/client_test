@@ -45,6 +45,6 @@
 <p>Route /api/client/update/{id} Metodo PUT</p>
 <p>Route /api/client/delete/{id} Metodo DELLETE</p>
 
-# Inicar a Aplicação.
+### Inicar a Aplicação.
 
 <p>Para iniciar projeto, e necessario esta na pasta da aplicação, apos isso adicione no terminal o comando <b>php artisan serve</b> e aperte enter.</p>
