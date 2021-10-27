@@ -8,5 +8,10 @@
 
 ## Rotas
 
-### Autenticação 
+### Autenticação do usuário 
+
+<p>"/api/login"</p>
+<p>"/api/logout</p> requirido esta logado
+<p>"/api/refresh"</p> requirido esta logado
+<p></p>
 
