@@ -28,18 +28,18 @@
 
 ## Rotas
 
-### Autenticação do usuário 
+### Rotas de Autenticação do usuário 
 
 <p>/api/login</p>
 <p>/api/logout  requirido esta logado</p>
 <p>/api/refresh requirido esta logado</p> 
 
-### Usuário logado
+### Rotas para Usuário logado
 
 <p>/api/user Metodo GET</p>
 <p>/api/update Metodo PUT</p>
 
-### Client 
+### Rotas para Client 
 
 <p>/api/clients Metodo GET</p>
 <p>/api/client/add Metodo POST</p>
