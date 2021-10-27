@@ -31,8 +31,8 @@
 ### Rotas de Autenticação do usuário 
 
 <p>/api/login Metodo Post</p>
-<p>/api/logout Metodo Post  Observação:requirido esta logado</p>
-<p>/api/refresh Metodo Post Observaçãorequirido esta logado</p> 
+<p>/api/logout ,Metodo Post, Observação:requirido esta logado</p>
+<p>/api/refresh ,Metodo Post, Observaçãorequirido esta logado</p> 
 
 ### Rotas para Usuário logado
 
