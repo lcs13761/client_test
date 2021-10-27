@@ -14,7 +14,7 @@
 <p>Na pasta database/migrations possui os dados das tabelas que precisam ser criadas</p>
 <p>Na pasta database/seeders possui os dados basicos que serao registrado.</p>
 <p>Para a criação do banco de dados na pasta da aplicação ,faça a execução no terminal do comando <b>php artisan migrate:f --seed.</b></p>
-<p>Apos rota o comando a estrutura sera criada e ficara pronta para uso.</p>
+<p>Apos a execução do comando a estrutura sera criada é ficara pronta para utilização.</p>
 
 ### Tabelas no Banco de dados
 <p>A aplicação possui 3 tabelas.</p>
