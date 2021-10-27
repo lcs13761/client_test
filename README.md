@@ -9,7 +9,6 @@
 
 ## Banco de dados
 
-
 <p>As configurações do banco de dados é feito no .Env</p>
 <p>Na pasta database/migrations possui os dados das tabelas que precisam ser criadas</p>
 <p>Na pasta database/seeders possui os dados basicos que serao registrado.</p>
@@ -45,3 +44,7 @@
 <p>Route /api/client/add Metodo POST</p>
 <p>Route /api/client/update/{id} Metodo PUT</p>
 <p>Route /api/client/delete/{id} Metodo DELLETE</p>
+
+#
+
+<p>Para iniciar a aplicação , faça a execução no terminal do comando <b>php artisan serve</b> na pasta da aplicação.</p>
