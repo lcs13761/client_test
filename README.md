@@ -10,10 +10,10 @@
 ## Banco de dados
 
 
-<p>As configurações do banco de dados e feito no .Env</p>
+<p>As configurações do banco de dados é feito no .Env</p>
 <p>Na pasta database/migrations possui os dados das tabelas que precisam ser criadas</p>
-<p>Na pasta database/seeders possui os dados basicos registrado que serao registrado.</p>
-<p>Para a criação  do banco de dados rote no terminal, na pasta da aplicação #### php artisan migrate:f --seed.</p>
+<p>Na pasta database/seeders possui os dados basicos que serao registrado.</p>
+<p>Para a criação do banco de dados na pasta da aplicação ,faça a execução no terminal do comando <b>php artisan migrate:f --seed.</b></p>
 <p>Apos rota o comando a estrutura sera criada e ficara pronta para uso.</p>
 
 ### Tabelas no Banco de dados
