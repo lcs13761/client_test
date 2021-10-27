@@ -11,7 +11,7 @@
 ### Autenticação do usuário 
 
 <p>"/api/login"</p>
-<p>"/api/logout</p> requirido esta logado
-<p>"/api/refresh"</p> requirido esta logado
+<p>"/api/logout"  requirido esta logado</p>
+<p>"/api/refresh" requirido esta logado</p> 
 <p></p>
 
