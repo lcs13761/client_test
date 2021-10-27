@@ -14,7 +14,7 @@
 <p>/api/logout  requirido esta logado</p>
 <p>/api/refresh requirido esta logado</p> 
 
-### usuário logado
+### Usuário logado
 
 <p>/api/user metodo GET</p>
 <p>/api/update metodo PUT</p>
