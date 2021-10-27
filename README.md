@@ -5,3 +5,6 @@
 <p>As informacoes padrão salva do usuário seria</p>
 <p>E-mail: password@password.com</p>
 <p>Senha: password123</p>
+
+##Rotas
+
