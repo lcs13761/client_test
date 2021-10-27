@@ -30,18 +30,18 @@
 
 ### Rotas de Autenticação do usuário 
 
-<p>/api/login Metodo Post</p>
-<p>/api/logout ,Metodo Post, Observação:requirido esta logado</p>
-<p>/api/refresh ,Metodo Post, Observaçãorequirido esta logado</p> 
+<p>Route /api/login ,Metodo Post</p>
+<p>Route /api/logout ,Metodo Post, Observação:requirido esta logado</p>
+<p>Route /api/refresh ,Metodo Post, Observaçãorequirido esta logado</p> 
 
 ### Rotas para Usuário logado
 
-<p>/api/user Metodo GET</p>
-<p>/api/update Metodo PUT</p>
+<p>Route /api/user Metodo GET</p>
+<p>Route /api/update Metodo PUT</p>
 
 ### Rotas para Client 
 
-<p>/api/clients Metodo GET</p>
-<p>/api/client/add Metodo POST</p>
-<p>/api/client/update/{id} Metodo PUT</p>
-<p>/api/client/delete/{id} Metodo DELLETE</p>
+<p>Route /api/clients Metodo GET</p>
+<p>Route /api/client/add Metodo POST</p>
+<p>Route /api/client/update/{id} Metodo PUT</p>
+<p>Route /api/client/delete/{id} Metodo DELLETE</p>
