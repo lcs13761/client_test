@@ -22,8 +22,8 @@
 <p>Client</p>
 <p>Address</p>
 
-<p>Users --conecta--> Client</p>
-<p>Users e clients possui uma conexão onde um usuário possui apenas 1 endereço. </p>
+<p>Users --ligação--> Client</p>
+<p>Address ---ligação--> Client e Users</p>
 
 
 ## Rotas
