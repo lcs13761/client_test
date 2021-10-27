@@ -21,7 +21,7 @@
 
 ### Client 
 
-/api/clients Metodo GET
-/api/client/add Metodo POST
-/api/client/update/{id} Metodo PUT
-/api/client/delete/{id} Metodo DELLETE
+<p>/api/clients Metodo GET</p>
+<p>/api/client/add Metodo POST</p>
+<p>/api/client/update/{id} Metodo PUT</p>
+<p>/api/client/delete/{id} Metodo DELLETE</p>
